@@ -97,13 +97,13 @@ About
 }
 
 /*-------------------------------------------
-Bicycle
+Familly
 -------------------------------------------*/
-#bicycle ul {
+#familly ul {
   display: flex;
   justify-content: space-between;
 }
-#bicycle li {
+#familly li {
   width: 32%;
 }
 
@@ -139,12 +139,12 @@ SP
   }
 
   /*-------------------------------------------
-  Bicycle
+  Familly
   -------------------------------------------*/
-  #bicycle ul {
+  #familly ul {
     flex-direction: column;
   }
-  #bicycle li {
+  #familly li {
     width: 100%;
     margin-bottom: 30px;
   }
